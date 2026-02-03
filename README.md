@@ -21,7 +21,7 @@ This project demonstrates how Large Language Models (LLMs) can democratize data 
 ### Prerequisites
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nl2sql-bi-demo.git
+git clone https://github.com/sankamanasa/nl2sql-bi-demo.git
 cd nl2sql-bi-demo
 
 # Install dependencies
